@@ -1,0 +1,355 @@
+Chemistry 
+ 
+Chapter 1: Basic concepts of chemistry 
+ 
+1. What is the SI unit of mass? 
+A) Gram (g) 
+B) Kilogram (kg) 
+C) Pound (lB) 
+D) Ounce (oz) 
+Answer: B) Kilogram (kg) 
+2. Which of the following is an example of a chemical change? 
+A) Melting of ice 
+B) Cutting of paper 
+C) Rusting of iron 
+D) Boiling of water 
+Answer: C) Rusting of iron 
+3. What is Avogadro's number? 
+A) 6.022×10236.022 \times 10^{23}6.022×1023 
+B) 3.14×1033.14 \times 10^33.14×103 
+C) 9.81×1029.81 \times 10^{2}9.81×102 
+D) 1.67×10−241.67 \times 10^{-24}1.67×10−24 
+Answer: A) 6.022×10236.022 \times 10^{23}6.022×1023 
+4. Which of the following elements has the highest electronegativity? 
+A) Oxygen (O) 
+B) Hydrogen (H) 
+C) Fluorine (F) 
+D) Carbon (C) 
+Answer: C) Fluorine (F) 
+5. What is the chemical formula for water? 
+A) CO₂  
+B) H₂ O 
+C) O₂  
+D) HCl 
+Answer: B) H₂ O 
+6. Which of the following is a homogeneous mixture? 
+A) Sand and water 
+
+B) Oil and water 
+C) Salt and water 
+D) Iron filings and sulfur 
+Answer: C) Salt and water 
+7. What is the molar mass of carbon dioxide (CO₂ )? 
+A) 16 g/mol 
+B) 28 g/mol 
+C) 32 g/mol 
+D) 44 g/mol 
+Answer: D) 44 g/mol 
+8. Which of the following is not a state of matter? 
+A) Solid 
+B) Liquid 
+C) Gas 
+D) Plasma 
+Answer: D) Plasma 
+9. Which law states that mass is conserved in a chemical reaction? 
+A) Law of Definite Proportions 
+B) Law of Conservation of Mass 
+C) Law of Multiple Proportions 
+D) Law of Constant Composition 
+Answer: B) Law of Conservation of Mass 
+10. What is the empirical formula of a compound with 40% carbon, 6.67% 
+hydrogen, and 53.33% oxygen by mass? 
+A) CH₃ O 
+B) CH₂ O 
+C) C₂ H₄ O₂  
+D) CH₄  
+Answer: B) CH₂ O 
+ 
+ 
+ 
+ 
+
+Chapter 2: Structure of Atom 
+ 
+1. Who proposed the plum pudding model of the atom? 
+A) Niels Bohr 
+B) J.J. Thomson 
+C) Ernest Rutherford 
+D) John Dalton 
+Answer: B) J.J. Thomson 
+2. What is the charge of a neutron? 
+A) Positive 
+B) Negative 
+C) Neutral 
+D) Depends on the isotope 
+Answer: C) Neutral 
+3. Which experiment led to the discovery of the nucleus? 
+A) Cathode Ray Experiment 
+B) Gold Foil Experiment 
+C) Oil Drop Experiment 
+D) Photoelectric Effect 
+Answer: B) Gold Foil Experiment 
+ 
+4. What is the maximum number of electrons that can occupy a p-orbital? 
+A) 2 
+B) 6 
+C) 10 
+D) 14 
+Answer: B) 6 
+ 
+5. Who developed the quantum mechanical model of the atom? 
+A) Werner Heisenberg 
+B) Niels Bohr 
+C) Erwin Schrödinger 
+D) J.J. Thomson 
+Answer: C) Erwin Schrödinger 
+ 
+6. What is the principal quantum number primarily associated with? 
+
+A) Shape of the orbital 
+B) Energy level of the electron 
+C) Spin of the electron 
+D) Magnetic orientation 
+Answer: B) Energy level of the electron 
+ 
+7. In Bohr's model, which property of electrons is quantized? 
+A) Mass 
+B) Charge 
+C) Angular momentum 
+D) Magnetic moment 
+Answer: C) Angular momentum 
+ 
+8. Which particle was discovered first in the atomic model? 
+A) Electron 
+B) Proton 
+C) Neutron 
+D) Positron 
+Answer: A) Electron 
+ 
+9. What is the number of protons in an atom called? 
+A) Atomic mass 
+B) Isotope number 
+C) Atomic number 
+D) Mass number 
+Answer: C) Atomic number 
+ 
+10. How many subshells are there in the 3rd energy level? 
+A) 2 
+B) 3 
+C) 4 
+D) 5 
+Answer: B) 3 
+ 
+ 
+ 
+ 
+
+Chapter 3: Classification of elements and periodicity 
+ 
+1. Who is credited with creating the modern periodic table? 
+A) Dmitri Mendeleev 
+B) Henry Moseley 
+C) Antoine Lavoisier 
+D) J.J. Thomson 
+Answer: A) Dmitri Mendeleev 
+ 
+2. What is the basis of classification in the modern periodic table? 
+A) Atomic mass 
+B) Atomic radius 
+C) Atomic number 
+D) Density 
+Answer: C) Atomic number 
+ 
+3. Which group of the periodic table contains the noble gases? 
+A) Group 1 
+B) Group 2 
+C) Group 17 
+D) Group 18 
+Answer: D) Group 18 
+ 
+4. Elements in the same group of the periodic table generally have similar... 
+A) Atomic numbers 
+B) Chemical properties 
+C) Isotopes 
+D) Mass numbers 
+Answer: B) Chemical properties 
+ 
+5. What term describes the horizontal rows of the periodic table? 
+A) Groups 
+B) Periods 
+C) Clusters 
+D) Series 
+Answer: B) Periods 
+ 
+6. The alkali metals are found in which group of the periodic table? 
+A) Group 1 
+B) Group 2 
+C) Group 3 
+D) Group 17 
+Answer: A) Group 1 
+ 
+
+7. What characteristic is common to all elements in Group 17 (halogens)? 
+A) They have one valence electron 
+B) They have seven valence electrons 
+C) They are metals 
+D) They are noble gases 
+Answer: B) They have seven valence electrons 
+ 
+8. Which of the following elements is a transition metal? 
+A) Sodium 
+B) Magnesium 
+C) Iron 
+D) Oxygen 
+Answer: C) Iron 
+ 
+9. What is the general trend for atomic radius as you move down a group in the periodic table? 
+A) It decreases 
+B) It increases 
+C) It remains the same 
+D) It varies unpredictably 
+Answer: B) It increases 
+ 
+10. Which of the following elements is located in Period 3 and Group 16? 
+A) Oxygen 
+B) Sulfur 
+C) Chlorine 
+D) Phosphorus 
+Answer: B) Sulfur 
+ 
+ 
+ 
+ 
+
+Chapter 4: Chemical Bonding and Molecular Structure 
+ 
+1. Which of the following bonds is the strongest? 
+A) Ionic bond 
+B) Covalent bond 
+C) Hydrogen bond 
+D) Van der Waals forces 
+Answer: A) Ionic bond 
+2. What is the geometry of a molecule with sp² hybridization? 
+A) Linear 
+B) Trigonal planar 
+C) Tetrahedral 
+D) Bent 
+Answer: B) Trigonal planar 
+3. The bond angle in methane (CH₄ ) is: 
+A) 109.5° 
+B) 90° 
+C) 120° 
+D) 180° 
+Answer: A) 109.5° 
+4. Which of the following molecules exhibits resonance? 
+A) CH₄  
+B) O₃  
+C) NH₃  
+D) H₂ O 
+Answer: B) O₃  
+5. Which molecule has the highest dipole moment? 
+A) CO₂  
+B) H₂ O 
+C) BF₃  
+D) CH₄  
+Answer: B) H₂ O 
+6. What type of bond exists in the oxygen molecule (O₂ )? 
+A) Single bond 
+B) Double bond 
+C) Triple bond 
+
+D) Ionic bond 
+Answer: B) Double bond 
+7. Which of the following molecules is non-polar? 
+A) H₂ O 
+B) NH₃  
+C) CO₂  
+D) HCl 
+Answer: C) CO₂  
+8. In the VSEPR theory, the shape of the SF₆  molecule is: 
+A) Octahedral 
+B) Trigonal bipyramidal 
+C) Tetrahedral 
+D) Linear 
+Answer: A) Octahedral 
+9. The bond order of nitrogen molecule (N₂ ) is: 
+A) 1 
+B) 2 
+C) 3 
+D) 4 
+Answer: C) 3 
+10. Which of the following compounds is likely to form hydrogen bonds? 
+A) CH₄  
+B) NH₃  
+C) CCl₄  
+D) CO₂  
+Answer: B) NH₃  
+ 
+ 
+ 
+ 
+
+Chapter 5: States of Matter 
+1. Which of the following is not a characteristic of a gas? 
+A) Indefinite shape 
+B) Indefinite volume 
+C) High density 
+D) Compressibility 
+Answer: C) High density 
+2. What happens to the particles in a liquid when it is heated? 
+A) They slow down 
+B) They move farther apart 
+C) They stop moving 
+D) They become denser 
+Answer: B) They move farther apart 
+3. Which of the following processes changes a liquid into a gas? 
+A) Condensation 
+B) Sublimation 
+C) Vaporization 
+D) Freezing 
+Answer: C) Vaporization 
+4. At what temperature does water typically boil at sea level? 
+A) 0°C 
+B) 50°C 
+C) 100°C 
+D) 150°C 
+Answer: C) 100°C 
+5. Which state of matter has a definite shape and volume? 
+A) Solid 
+B) Liquid 
+C) Gas 
+D) Plasma 
+Answer: A) Solid 
+6. What is the process called when a solid changes directly into a gas 
+without passing through the liquid state? 
+A) Melting 
+B) Evaporation 
+
+C) Sublimation 
+D) Deposition 
+Answer: C) Sublimation 
+7. Which of the following statements best describes a liquid? 
+A) Particles are tightly packed and vibrate in place 
+B) Particles move freely and have no definite shape or volume 
+C) Particles are close but can move past one another and have a definite volume 
+D) Particles are far apart and fill the entire space available 
+Answer: C) Particles are close but can move past one another and have a definite volume 
+8. Which phase change occurs when a gas turns into a liquid? 
+A) Freezing 
+B) Boiling 
+C) Condensation 
+D) Melting 
+Answer: C) Condensation 
+9. What happens during the process of melting? 
+A) A liquid turns into a gas 
+B) A solid turns into a liquid 
+C) A gas turns into a liquid 
+D) A liquid turns into a solid 
+Answer: B) A solid turns into a liquid 
+10. Which state of matter is characterized by ionized particles and is found 
+in stars? 
+A) Solid 
+B) Liquid 
+C) Gas 
+D) Plasma 
+Answer: D) Plasma
